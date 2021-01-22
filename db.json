@@ -1,0 +1,14 @@
+{
+  "teams": [
+    { "rank":1, "name":"Brazil"},
+    { "rank":2, "name":"Poland"},
+    { "rank":3, "name":"USA"},
+    { "rank":4, "name":"Russia"},
+    { "rank":5, "name":"Argentina"},
+    { "rank":6, "name":"France"},
+    { "rank":7, "name":"Italy"},
+    { "rank":8, "name":"Iran"},
+    { "rank":9, "name":"Japan"},
+    { "rank":10,"name":"Canada"}
+          ]
+}
